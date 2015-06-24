@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhoneBook>
+  <Person id="1" name="Serge" active="false">
+    <Phone type="cell">113214324</Phone>
+    <Phone type="home">111114324</Phone>
+  </Person>
+  <Person id="2" name="Ruben" active="false">
+    <Phone type="unknown">2223432422</Phone>
+    <Phone type="unknown">2223432499</Phone>
+  </Person>
+  <Person id="3" name="Barak Obama" active="true">
+    <Phone type="satellite">333343233</Phone>
+    <Phone type="cell">333164324</Phone>
+    <Phone type="home">333614327</Phone>
+    <Phone type="unknown">33761888</Phone>
+  </Person>
+  <Person id="4" name="Old Dude With No Phone" active="false" />
+</PhoneBook>
