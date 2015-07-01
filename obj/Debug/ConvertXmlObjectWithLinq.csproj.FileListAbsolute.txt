@@ -1,0 +1,6 @@
+C:\Serge Samples\ConvertXmlObjectWithLinq\ConvertXmlObjectWithLinq\bin\Debug\ConvertXmlObjectWithLinq.exe.config
+C:\Serge Samples\ConvertXmlObjectWithLinq\ConvertXmlObjectWithLinq\bin\Debug\XML\PhoneBook.xml
+C:\Serge Samples\ConvertXmlObjectWithLinq\ConvertXmlObjectWithLinq\bin\Debug\ConvertXmlObjectWithLinq.exe
+C:\Serge Samples\ConvertXmlObjectWithLinq\ConvertXmlObjectWithLinq\bin\Debug\ConvertXmlObjectWithLinq.pdb
+C:\Serge Samples\ConvertXmlObjectWithLinq\ConvertXmlObjectWithLinq\obj\Debug\ConvertXmlObjectWithLinq.exe
+C:\Serge Samples\ConvertXmlObjectWithLinq\ConvertXmlObjectWithLinq\obj\Debug\ConvertXmlObjectWithLinq.pdb
